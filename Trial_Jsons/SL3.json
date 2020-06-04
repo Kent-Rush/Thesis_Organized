@@ -1,0 +1,13 @@
+{
+    "Directory": "877",
+    "Spacecraft Geometry": "ARIANE40",
+    "Inertia Matrix": [[1,0,0],[0,1,0],[0,0,1]],
+    "TLE Line1": "1   877U 64053B   18165.57353437 -.00000098 +00000-0 +52842-5 0  9992",
+    "TLE Line2": "2   877 065.0782 313.5115 0076861 317.4519 042.0639 14.59333985854404",
+    "Observation Site Lattitude": 37.1348,
+    "Observation Site East Longitude": -12.2110,
+    "Observation Site Altitude": 684,
+    "Sensor STD": 64.01395092067973,
+    "Exposure Time": 0.0074,
+    "Real Data": 1
+}

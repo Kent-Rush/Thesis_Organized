@@ -1,0 +1,25 @@
+{
+
+    "Directory": "BOX_WING_MEO_TUMBLING_DIAG",
+
+    "Spacecraft Geometry": "BOX_WING",
+
+    "Inertia Matrix": [[1,0,0],[0,2,0],[0,0,3]],
+
+    "TLE Line1": "1 25510U 98061C   20043.09331796 +.00000239 +00000-0 +32295-4 0  9993",
+
+    "TLE Line2": "2 25510 031.4351 336.1280 0327084 044.2404 062.8590 14.37460720117471",
+
+    "Data Rate": 0.01,
+
+    "Observation Site Lattitude": 37.1348,
+
+    "Observation Site East Longitude": -122.2110,
+
+    "Observation Site Altitude": 684,
+
+    "Sensor STD": 5
+,
+    "Real Data": 0,
+    "Exposure Time": 0.024
+}

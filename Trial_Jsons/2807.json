@@ -1,0 +1,13 @@
+{
+    "Directory": "2802",
+    "Spacecraft Geometry": "SL8",
+    "Inertia Matrix": [[1,0,0],[0,1,0],[0,0,1]],
+    "TLE Line1": "1  2802U 67045B   18153.57559036 +.00000036 +00000-0 +18350-4 0  9992",
+    "TLE Line2": "2  2802 074.0124 234.3896 0066959 205.5514 154.2329 14.43695771679548",
+    "Observation Site Lattitude": 37.1348,
+    "Observation Site East Longitude": -12.2110,
+    "Observation Site Altitude": 684,
+    "Sensor STD": 36.27866984126983,
+    "Exposure Time": 0.0069,
+    "Real Data": 1
+}

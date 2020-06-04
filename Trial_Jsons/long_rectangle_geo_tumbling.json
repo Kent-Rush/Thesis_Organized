@@ -1,0 +1,25 @@
+{
+
+    "Directory": "LONG_RECTANGLE_GEO_TUMBLING",
+
+    "Spacecraft Geometry": "LONG_RECTANGLE",
+
+    "Inertia Matrix": [[1,0.01,0.01],[0.01,2,0.01],[0.01,0.01,3]],
+
+    "TLE Line1": "1 41866U 16071A   20105.38104956 -.00000268  00000-0  00000+0 0  9990",
+
+    "TLE Line2": "2 41866   0.0279 356.6976 0001267  79.6806 188.6098  1.00273283 12491",
+
+    "Data Rate": 0.1,
+
+    "Observation Site Lattitude": 37.1348,
+
+    "Observation Site East Longitude": -122.2110,
+
+    "Observation Site Altitude": 684,
+
+    "Sensor STD": 5
+,
+    "Real Data": 0,
+    "Exposure Time": 0.05
+}

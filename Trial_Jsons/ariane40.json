@@ -1,0 +1,18 @@
+{
+
+    "Directory": "22830",
+
+    "Spacecraft Geometry": "ARIANE40",
+
+    "Inertia Matrix": [[1,0,0],[0,1,0],[0,0,1]],
+
+    "Observation Site Lattitude": 37.1348,
+
+    "Observation Site East Longitude": -122.2110,
+
+    "Observation Site Altitude": 684,
+
+    "Sensor STD": 4,
+
+    "Real Data": 1
+}

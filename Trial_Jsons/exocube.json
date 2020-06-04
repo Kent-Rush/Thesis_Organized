@@ -1,0 +1,13 @@
+{
+    "Directory": "EXOCUBE",
+    "Spacecraft Geometry": "EXOCUBE",
+    "Inertia Matrix": [[1,0,0],[0,1,0],[0,0,1]],
+    "TLE Line1": "1 40380U 15003E   19226.89727135 +.00000565 +00000-0 +30004-4 0  9993",
+    "TLE Line2": "2 40380 099.1191 209.2197 0138844 290.8125 067.8276 15.13611259250010",
+    "Data Rate": 0.5250424146652222,
+    "Observation Site Lattitude": 37.1348,
+    "Observation Site East Longitude": -12.2110,
+    "Observation Site Altitude": 684,
+    "Sensor STD": 2,
+    "Real Data": True
+}

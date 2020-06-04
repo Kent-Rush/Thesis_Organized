@@ -1,0 +1,14 @@
+{
+    "Directory": "LONG_RECTANGLE_MEO_TUMBLING",
+    "Spacecraft Geometry": "LONG_RECTANGLE",
+    "Inertia Matrix": [[1,0.01,0.01],[0.01,2,0.01],[0.01,0.01,3]],
+    "TLE Line1": "1 24720U 97005A   20044.18001990 +.00000143 +00000-0 +77639-3 0  9997",
+    "TLE Line2": "2 24720 031.2727 320.3419 5989717 079.6893 007.6342 03.83052346320774",
+    "Data Rate": 0.1,
+    "Observation Site Lattitude": 37.1348,
+    "Observation Site East Longitude": -122.2110,
+    "Observation Site Altitude": 684,
+    "Sensor STD": 5,
+    "Exposure Time": 0.024,
+    "Real Data": 0
+}
